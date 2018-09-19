@@ -5,3 +5,5 @@ Curated resources about React
 * [Spread properties for the better](https://facebook.github.io/react/docs/jsx-in-depth.html#spread-attributes)
 
 * [Prepare Sublime for React - Part 1 - Linter](https://medium.com/@junshengpierre/making-the-switch-from-jshint-to-eslint-5b6c4fa3c92a)
+
+* [How to fetch data in React](https://www.robinwieruch.de/react-fetching-data/)
